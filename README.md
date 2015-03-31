@@ -1,4 +1,4 @@
-# Vagrant::Plugin::GuestRhelDetectNic
+# VagrantPlugins::GuestRedhat7EthFix
 
 TODO: Write a gem description
 
